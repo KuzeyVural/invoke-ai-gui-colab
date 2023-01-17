@@ -5,7 +5,7 @@
 # model requires a model config file, a weights file,
 # and the width and height of the images it
 # was trained on.
-Anything_v3_vaefixed:
+Kawaisa_basic_v1:
   weights: models/ldm/stable-diffusion-v1/Kawaisa_basic_v1.ckpt
   description: Cool anime model
   config: configs/stable-diffusion/v1-inference.yaml
